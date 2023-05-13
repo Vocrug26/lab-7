@@ -152,10 +152,10 @@
     </div>
 </body>
 
+```
 
 
-
-@font-face{
+`@font-face{
         font-family:Ex;
         src: url(Cookie-Regular.ttf);
     }
@@ -230,7 +230,8 @@
         height: 170px;
         width: 550px;
         border-radius: 5px;
-    }
-    ```
+    }`
+    
+    
     ### **Вывод:**
 После выполнения данной лабораторной работы я улучшил свои навыки работы с стилями.
