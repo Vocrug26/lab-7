@@ -11,7 +11,7 @@
 Повторить по образцу, то есть сделать такой же макет используя материалы из архива lab7.zip
 
 ### **Решение задачи**
-```<body style="margin: 0px; padding: 0px; background-image: url(wrapper-bg.png);">
+`<body style="margin: 0px; padding: 0px; background-image: url(wrapper-bg.png);">
     <div style="background-image: url(header-wrapper-bg.png);height:187px; text-align: center; ">
         <div style="margin: auto; padding-top: 35px; text-align: center; display: flex; align-items: center; justify-content: center;">
             <span class="name">
@@ -152,10 +152,10 @@
     </div>
 </body>
 
-```
 
 
-`@font-face{
+
+@font-face{
         font-family:Ex;
         src: url(Cookie-Regular.ttf);
     }
